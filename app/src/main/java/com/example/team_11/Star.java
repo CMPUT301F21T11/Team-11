@@ -5,7 +5,8 @@ package com.example.team_11;
 public class Star extends Shape {
 
     private int angle;
-    private String color = "silver";
+
+    private String color = "gold";
 
     public Star(int angle) {
         this.angle = angle;
